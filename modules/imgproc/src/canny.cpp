@@ -56,7 +56,6 @@
 #define USE_IPP_CANNY 0
 #endif
 
-//test for git
 
 namespace cv
 {
